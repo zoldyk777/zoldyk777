@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Aditya Bisht</h1>
 <h3 align="center">Exploring DSA • AI/ML • Web Development</h3>
 
-- 🔭 I’m currently working on **Web Development project**
+- 🔭 I’m currently working on **Web Development and Java project**
 
 - 🌱 I’m currently learning **React / Next.js**
 
